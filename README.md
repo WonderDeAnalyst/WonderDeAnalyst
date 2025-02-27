@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bassey Wonder Paul  
 
-### 📊 Data Analyst | ML Enthusiast | Tech Educator | Author of Simplified Data Analysis with Python
+### 📊 Data Analyst | ML Enthusiast | Tech Educator | ML Software Developer | Author of Simplified Data Analysis with Python
 
 I am a passionate **Data Analyst** with a strong background in **Advance Excel, MS Power BI, Tableau, Advance SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn**. I specialize in extracting insights from data, building predictive models, and helping businesses make **data-driven decisions**.  
 
