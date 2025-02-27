@@ -14,7 +14,7 @@ I am a passionate **Data Analyst** with a strong background in **Advance Excel, 
 ## 📌 Notable Projects  
 - 🎯 **Career Recommender System** – MAchine Learning Base Model with Software Development using Django  
 - 📊 **Sales Data Analysis** – Insights  business growth using Tableau  
-- 🔎 **Hr Employee Attrition ** – Insight & Analysis using Excel
+- 🔎 **Hr Employee Attrition** – Insight & Analysis using Excel
 - 🏆 **Student Performance Prediction System** – Machine Learning Base Model 
 
 ## 📫 Let's Connect!  
